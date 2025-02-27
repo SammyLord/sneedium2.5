@@ -1,6 +1,9 @@
 <img src="https://github.com/Sneed-Group/sneedium/blob/master/logo.png?raw=true" align="right" width="15%"/>
 
-# Sneedium
+# Sneedium (OUTDATED SOURCE CODE!)
+
+# Please visit [here](https://sneedgit.nodemixaholic.com/Sneed-Group/sneedium) for up-to-date code.
+
 A basic web browser in Electron. ***With a functioning adblocker and privacy redirection technologies!***
 
 [![Download latest build.](https://github.com/Sneed-Group/sneedium/blob/master/download.png?raw=true)](https://github.com/Sneed-Group/sneedium/releases)
